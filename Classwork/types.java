@@ -33,6 +33,11 @@ class type
 
     char bell = '\u0007';
     System.out.println(bell);
+    char omega = '\u03A9';
+    System.out.println(omega);
+    int date = 1;
+    System.out.printf(" \t %d \t %d" ,++date, ++date);
+    String 
 
   }
 }
